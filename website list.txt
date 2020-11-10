@@ -1,0 +1,13 @@
+# Platforms to support videos from:
+## Centralized:
+[x] Youtube
+[ ] Twitch - requires a domain name
+[x] Vimeo
+[x] Dailymotion
+[x] Bitchute
+
+## Decentralized:
+[ ] Lbry (Odysee)
+[ ] Peertube
+[ ] Dtube
+[ ] invidious
